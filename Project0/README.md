@@ -41,8 +41,8 @@
 :arrow_up:[к оглавлению](README.md#Оглавление)
 
 
-### Результаты:  
-[Код](https://github.com/v-onuphrienko/sf_data_science/blob/main/Project0/homework)Данная программа позволяет меньше, чем за 20 попыток найти загаданное число в диапазоне 0-100.
+### Результаты:  [Код](https://github.com/v-onuphrienko/sf_data_science/blob/main/Project0/homework)
+Данная программа позволяет меньше, чем за 20 попыток найти загаданное число в диапазоне 0-100.
 
 :arrow_up:[к оглавлению](README.md#Оглавление)
 
